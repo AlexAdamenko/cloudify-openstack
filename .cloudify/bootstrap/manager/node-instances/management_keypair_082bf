@@ -1,0 +1,1 @@
+{"relationships": [], "state": "started", "node_id": "management_keypair", "name": "management_keypair", "version": 8, "runtime_properties": {"external_id": "cloudify-mnager", "external_name": "cloudify-mnager", "external_type": "keypair"}, "id": "management_keypair_082bf"}

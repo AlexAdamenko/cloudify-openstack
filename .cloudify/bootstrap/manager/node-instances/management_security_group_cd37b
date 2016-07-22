@@ -1,0 +1,1 @@
+{"relationships": [], "state": "started", "node_id": "management_security_group", "name": "management_security_group", "version": 8, "runtime_properties": {"external_id": "aea3680d-34cc-478c-97b3-9c4e5db98f9d", "external_name": "cloudify-sg-manager", "external_type": "security_group"}, "id": "management_security_group_cd37b"}

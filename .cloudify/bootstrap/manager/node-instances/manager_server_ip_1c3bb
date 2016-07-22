@@ -1,0 +1,1 @@
+{"relationships": [], "state": "started", "node_id": "manager_server_ip", "name": "manager_server_ip", "version": 8, "runtime_properties": {"external_id": "16d5148e-b831-44fe-b830-4b7389dd139f", "floating_ip_address": "172.24.4.7", "external_type": "floatingip"}, "id": "manager_server_ip_1c3bb"}

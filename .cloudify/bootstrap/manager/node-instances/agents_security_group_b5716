@@ -1,0 +1,1 @@
+{"relationships": [], "state": "started", "node_id": "agents_security_group", "name": "agents_security_group", "version": 8, "runtime_properties": {"external_id": "3f04f6d4-ece4-4cc1-9a59-6017779f8995", "external_name": "cloudify-sg-agents", "external_type": "security_group"}, "id": "agents_security_group_b5716"}

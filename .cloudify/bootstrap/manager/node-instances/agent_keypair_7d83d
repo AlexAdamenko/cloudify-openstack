@@ -1,0 +1,1 @@
+{"relationships": [], "state": "started", "node_id": "agent_keypair", "name": "agent_keypair", "version": 8, "runtime_properties": {"external_id": "cloudify-gent", "external_name": "cloudify-gent", "external_type": "keypair"}, "id": "agent_keypair_7d83d"}
